@@ -121,4 +121,7 @@ public class HashMapTest {
         System.out.println("Hasmap 2 contains: " + map2);
 
     }
+    public void add(){
+
+    }
 }
